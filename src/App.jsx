@@ -1,5 +1,5 @@
+import "./Navbar.css"; // If file is named with capital N
 
-import React from "react";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; // Use Routes instead of Switch
 
